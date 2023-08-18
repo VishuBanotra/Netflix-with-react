@@ -7,7 +7,7 @@ Welcome to my Netflix Clone project repository! In this project, I built a clone
 
 - React
 - HTML
-- CSS
+- SASS
 - Axios
 
 
